@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(186, 222, 102);
+}
+H1{
+    text-align: center;
+    font-size: 500%;
+}
+table{
+    align-items: center;
+    width: 90%;
+}
+p.poroda{
+    text-align: center;
+    font-size: 200%;
+}
